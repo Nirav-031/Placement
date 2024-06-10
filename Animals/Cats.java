@@ -7,7 +7,7 @@ package Animals;
 
 /**
  *
- * @author chavd
+ 
  */
 public class Cats implements Animals {
 
